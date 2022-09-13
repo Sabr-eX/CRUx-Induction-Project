@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.swdnucleus">
+    package="com.example.cruxproject">
             <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="swdnucleus"
+        android:label="cruxproject"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
