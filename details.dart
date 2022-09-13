@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:swdnucleus/users.dart';
-import 'package:swdnucleus/posts.dart';
-import 'package:swdnucleus/albums.dart';
+import 'package:cruxproject/users.dart';
+import 'package:cruxproject/posts.dart';
+import 'package:cruxproject/albums.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
